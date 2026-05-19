@@ -56,7 +56,7 @@ Modelimize şu tarz sorular sorabilirsin:
 "MACD indikatörü kripto piyasalarında nasıl yorumlanır?"
 
 💡 Geliştirici Notları
-Bu model, [İsmail Açar] tarafından kişisel araştırma projesi kapsamında geliştirilmiştir.
+Bu model, İsmail Açar tarafından kişisel araştırma projesi kapsamında geliştirilmiştir.
 
 Eğitim süreci 150 adımda optimize edilmiştir; repeat_penalty değerleri döngüleri önlemek için 1.05 seviyesinde tutulmuştur.
 
