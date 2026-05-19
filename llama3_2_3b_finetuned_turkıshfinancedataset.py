@@ -240,7 +240,7 @@ model.push_to_hub_merged(
 
 Hugging Face'te arama çubuğuna GGUF My Repo yaz. (Veya şu linke git: https://huggingface.co/spaces/ggml-org/gguf-my-repo)
 
-Bu araç senden sadece Hugging Face repo ismini (örn: IsmailAI/finans_asistani_3b) isteyecek.
+Sonrasında  Hugging Face repo ismini (örn: IsmailAI/finans_asistani_3b) giriniz.
 
 Araca repo ismini verdiğinde, Hugging Face arka planda modeli senin için ücretsiz olarak GGUF'a çevirip profiline otomatik olarak yükleyecektir.
 """
