@@ -1,4 +1,7 @@
 📈 Türkçe Finans Asistanı (AI-Powered)
+
+
+
 Bu proje, Llama-3.2-3B-Instruct modeli kullanılarak, kripto para, borsa ve genel finansal piyasalar üzerine eğitilmiş yerel bir yapay zeka asistanıdır.
 Modeli Hugginface'de IsmailAI/finans_asistani_3b_v2 linkinden inceleyebilirsiniz.
 
